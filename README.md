@@ -4,7 +4,7 @@ Welcome to my GitHub!
 I am a people builder with a special interest in data scientist with 10+ years of experience building models for retail price optimization, operations efficiency, and buider of efficient data products. With a B.S. in Supply Chain Management and an M.S. in Predictive Analytics, I am built to solve big a$$ problems. 
 
 <p align="center">
-📄 <a href='https://drive.google.com/file/d/1W9PMDkm-K1dgELPBcJk_sA0IzObCASHn/view?usp=share_link' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
+📄 <a href='https://drive.google.com/file/d/1WmZFUNq0gdOEhcsReaH2DytKhTsHFOFp/view' target='_blank'><b>Resume</b></a> &nbsp; &nbsp;
 🌐 <a href='https://www.datajackson.com' target='_blank'><b>Website</b></a> &nbsp; &nbsp;
 📧 <a href='mailto: brandon@datajackson.com' target='_blank'><b>Email</b></a>
 </p>
